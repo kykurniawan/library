@@ -1,1 +1,1 @@
-# javascript digital clock
+# Javascript digital clock
