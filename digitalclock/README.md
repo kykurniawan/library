@@ -14,13 +14,13 @@ or simply you can use like this
 <span id="digital-clock" data-clockFormat="hms" data-clockSeparator=":"></span>
 
 -- data-clockFormat attribute
-hms -> will create clock with format like 00:00:00
-hm -> will create clock with format like 00:00
-h -> will create clock with format like 00
+1. hms -> will create clock with format like 00:00:00
+2. hm -> will create clock with format like 00:00
+3. h -> will create clock with format like 00
 
 -- data-clockSeparator attribute
 you can change separator for your clock
 example:
-data-clockSeparator=":" -> will create clock with separator like 00:00:00
-data-clockSeparator="-" -> will create clock with separator like 00-00-00
-data-clockSeparator="/" -> will create clock with separator like 00/00/00
+1. data-clockSeparator=":" -> will create clock with separator like 00:00:00
+2. data-clockSeparator="-" -> will create clock with separator like 00-00-00
+3. data-clockSeparator="/" -> will create clock with separator like 00/00/00
