@@ -11,7 +11,7 @@ or simply you can use like this
 
 2. Create digital clock element in your page like this
 
-<span id="digital-clock" data-clockFormat="hms" data-clockSeparator=":"></span>
+<pre><span id="digital-clock" data-clockFormat="hms" data-clockSeparator=":"></span></pre>
 
 -- data-clockFormat attribute
 1. hms -> will create clock with format like 00:00:00
